@@ -7,7 +7,7 @@ This Python module facilitates the ingestion of historical forex data for the EU
 ## Features
 
 - **Data Retrieval**: Fetches historical OHLCV data for EUR/USD from Dukascopy.
-- **Customizable Date Range**: Allows users to specify start and end dates for data collection.
+- **Customizable Date Range**: Allows users to specify start and end dates for data collection. 
 - **Timestamp Adjustment**: Adjusts timestamps by a user-defined offset (e.g., +3 hours).
 - **CSV Export**: Saves the retrieved data to a CSV file for further analysis.
 - **Simple Integration**: Easy-to-use script that integrates with Python data analysis workflows.
