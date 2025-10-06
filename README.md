@@ -106,7 +106,7 @@ forex-data-ingestion/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/johnbdfilio000/forex-data-ingestion-free-dukacopy.git
+   git clone https://github.com/frostyalce000/forex-data-ingestion-free-dukacopy.git
    cd forex-data-ingestion
    ```
 
